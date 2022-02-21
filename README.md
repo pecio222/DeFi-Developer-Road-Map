@@ -242,9 +242,11 @@
 
 #### Python Ethereum Eco System
 
-- [Article](https://medium.com/@pipermerriam/the-python-ethereum-ecosystem-101bd9ba4de7)
+-#TOREAD# [Article](https://medium.com/@pipermerriam/the-python-ethereum-ecosystem-101bd9ba4de7)
 
 #### Distributed Storage Systems
+
+#TOREAD#
 
 - [INFO](https://medium.com/bitfwd/what-is-decentralised-storage-ipfs-filecoin-sia-storj-swarm-5509e476995f)
 - [IPFS](https://ipfs.io/)
@@ -682,6 +684,8 @@
 - [ABDK Libraries for Solidity](https://github.com/abdk-consulting/abdk-libraries-solidity) - Fixed-point (64.64 bit) and IEEE-754 compliant quad precision (128 bit) floating-point math libraries for Solidity
 
 #### Patterns for Smart Contracts
+
+#TOREAD#
 
 - [Dappsys: Safe, simple, and flexible Ethereum contract building blocks](https://github.com/dapphub/dappsys)
 - [MakerDAO](https://github.com/makerdao/maker-otc)
