@@ -107,7 +107,7 @@
 - Create a few repositories on [GitHub](https://github.com/) / [GitLab](https://about.gitlab.com/)
 - Share your code with other people
 - know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
-- Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
+- #TOREAD# Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
 - Get familiar with terminal ([Linux/Docker](https://medium.com/coinmonks/how-to-become-a-blockchain-developer-59c830e20f15)), configure your shell (bash, zsh, fish)
 - Read a few books about algorithms and data structures, blockchain, Ethereum, solidity
 - Do this course [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
