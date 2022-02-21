@@ -103,7 +103,7 @@
 #### General Development Skills
 
 
-- Learn [GIT](https://medium.com/pixel-pioneers/the-basics-of-version-control-system-git-explained-by-designing-a-new-car-3fb3a10e9e40)
+- #TOREAD# Learn [GIT](https://medium.com/pixel-pioneers/the-basics-of-version-control-system-git-explained-by-designing-a-new-car-3fb3a10e9e40)
 - Create a few repositories on [GitHub](https://github.com/) / [GitLab](https://about.gitlab.com/)
 - Share your code with other people
 - know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
